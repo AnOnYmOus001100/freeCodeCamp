@@ -5,4 +5,4 @@
 
 This repository consists of materials, courses and projects of <a href="https://www.freecodecamp.org">freeodecamp.org</a>
 
-Also visit the freeCodeCamp repository <a href="https://github.com/freeCodeCamp">here</a>
+Also visit the  <a href="https://github.com/freeCodeCamp">freeCodeCamp repository</a>
