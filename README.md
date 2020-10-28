@@ -3,4 +3,4 @@
 <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg" width=250px height=50px>
 
 
-This repository consists of materials, courses and projects of freeodecamp.org
+This repository consists of materials, courses and projects of <a href="https://www.freecodecamp.org">freeodecamp.org</a>
